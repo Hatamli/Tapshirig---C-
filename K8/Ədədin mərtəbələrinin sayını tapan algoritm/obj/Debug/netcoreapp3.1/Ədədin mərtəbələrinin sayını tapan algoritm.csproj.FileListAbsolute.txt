@@ -1,0 +1,13 @@
+E:\C#\Ədədin mərtəbələrinin sayını tapan algoritm\Ədədin mərtəbələrinin sayını tapan algoritm\obj\Debug\netcoreapp3.1\Ədədin mərtəbələrinin sayını tapan algoritm.csprojAssemblyReference.cache
+E:\C#\Ədədin mərtəbələrinin sayını tapan algoritm\Ədədin mərtəbələrinin sayını tapan algoritm\obj\Debug\netcoreapp3.1\Ədədin mərtəbələrinin sayını tapan algoritm.AssemblyInfoInputs.cache
+E:\C#\Ədədin mərtəbələrinin sayını tapan algoritm\Ədədin mərtəbələrinin sayını tapan algoritm\obj\Debug\netcoreapp3.1\Ədədin mərtəbələrinin sayını tapan algoritm.AssemblyInfo.cs
+E:\C#\Ədədin mərtəbələrinin sayını tapan algoritm\Ədədin mərtəbələrinin sayını tapan algoritm\obj\Debug\netcoreapp3.1\Ədədin mərtəbələrinin sayını tapan algoritm.csproj.CoreCompileInputs.cache
+E:\C#\Ədədin mərtəbələrinin sayını tapan algoritm\Ədədin mərtəbələrinin sayını tapan algoritm\bin\Debug\netcoreapp3.1\Ədədin mərtəbələrinin sayını tapan algoritm.exe
+E:\C#\Ədədin mərtəbələrinin sayını tapan algoritm\Ədədin mərtəbələrinin sayını tapan algoritm\bin\Debug\netcoreapp3.1\Ədədin mərtəbələrinin sayını tapan algoritm.deps.json
+E:\C#\Ədədin mərtəbələrinin sayını tapan algoritm\Ədədin mərtəbələrinin sayını tapan algoritm\bin\Debug\netcoreapp3.1\Ədədin mərtəbələrinin sayını tapan algoritm.runtimeconfig.json
+E:\C#\Ədədin mərtəbələrinin sayını tapan algoritm\Ədədin mərtəbələrinin sayını tapan algoritm\bin\Debug\netcoreapp3.1\Ədədin mərtəbələrinin sayını tapan algoritm.runtimeconfig.dev.json
+E:\C#\Ədədin mərtəbələrinin sayını tapan algoritm\Ədədin mərtəbələrinin sayını tapan algoritm\bin\Debug\netcoreapp3.1\Ədədin mərtəbələrinin sayını tapan algoritm.dll
+E:\C#\Ədədin mərtəbələrinin sayını tapan algoritm\Ədədin mərtəbələrinin sayını tapan algoritm\bin\Debug\netcoreapp3.1\Ədədin mərtəbələrinin sayını tapan algoritm.pdb
+E:\C#\Ədədin mərtəbələrinin sayını tapan algoritm\Ədədin mərtəbələrinin sayını tapan algoritm\obj\Debug\netcoreapp3.1\Ədədin mərtəbələrinin sayını tapan algoritm.dll
+E:\C#\Ədədin mərtəbələrinin sayını tapan algoritm\Ədədin mərtəbələrinin sayını tapan algoritm\obj\Debug\netcoreapp3.1\Ədədin mərtəbələrinin sayını tapan algoritm.pdb
+E:\C#\Ədədin mərtəbələrinin sayını tapan algoritm\Ədədin mərtəbələrinin sayını tapan algoritm\obj\Debug\netcoreapp3.1\Ədədin mərtəbələrinin sayını tapan algoritm.genruntimeconfig.cache
