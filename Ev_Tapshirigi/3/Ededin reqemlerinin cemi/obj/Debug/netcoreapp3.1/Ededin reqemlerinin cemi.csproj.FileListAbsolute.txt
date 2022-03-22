@@ -1,0 +1,13 @@
+E:\C#\Ededin reqemlerinin cemi\Ededin reqemlerinin cemi\bin\Debug\netcoreapp3.1\Ededin reqemlerinin cemi.exe
+E:\C#\Ededin reqemlerinin cemi\Ededin reqemlerinin cemi\bin\Debug\netcoreapp3.1\Ededin reqemlerinin cemi.deps.json
+E:\C#\Ededin reqemlerinin cemi\Ededin reqemlerinin cemi\bin\Debug\netcoreapp3.1\Ededin reqemlerinin cemi.runtimeconfig.json
+E:\C#\Ededin reqemlerinin cemi\Ededin reqemlerinin cemi\bin\Debug\netcoreapp3.1\Ededin reqemlerinin cemi.runtimeconfig.dev.json
+E:\C#\Ededin reqemlerinin cemi\Ededin reqemlerinin cemi\bin\Debug\netcoreapp3.1\Ededin reqemlerinin cemi.dll
+E:\C#\Ededin reqemlerinin cemi\Ededin reqemlerinin cemi\bin\Debug\netcoreapp3.1\Ededin reqemlerinin cemi.pdb
+E:\C#\Ededin reqemlerinin cemi\Ededin reqemlerinin cemi\obj\Debug\netcoreapp3.1\Ededin reqemlerinin cemi.csprojAssemblyReference.cache
+E:\C#\Ededin reqemlerinin cemi\Ededin reqemlerinin cemi\obj\Debug\netcoreapp3.1\Ededin reqemlerinin cemi.AssemblyInfoInputs.cache
+E:\C#\Ededin reqemlerinin cemi\Ededin reqemlerinin cemi\obj\Debug\netcoreapp3.1\Ededin reqemlerinin cemi.AssemblyInfo.cs
+E:\C#\Ededin reqemlerinin cemi\Ededin reqemlerinin cemi\obj\Debug\netcoreapp3.1\Ededin reqemlerinin cemi.csproj.CoreCompileInputs.cache
+E:\C#\Ededin reqemlerinin cemi\Ededin reqemlerinin cemi\obj\Debug\netcoreapp3.1\Ededin reqemlerinin cemi.dll
+E:\C#\Ededin reqemlerinin cemi\Ededin reqemlerinin cemi\obj\Debug\netcoreapp3.1\Ededin reqemlerinin cemi.pdb
+E:\C#\Ededin reqemlerinin cemi\Ededin reqemlerinin cemi\obj\Debug\netcoreapp3.1\Ededin reqemlerinin cemi.genruntimeconfig.cache

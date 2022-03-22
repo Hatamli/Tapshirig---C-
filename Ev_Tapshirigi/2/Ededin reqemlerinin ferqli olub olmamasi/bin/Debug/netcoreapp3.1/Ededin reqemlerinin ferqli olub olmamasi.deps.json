@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ededin reqemlerinin ferqli olub olmamasi/1.0.0": {
+        "runtime": {
+          "Ededin reqemlerinin ferqli olub olmamasi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ededin reqemlerinin ferqli olub olmamasi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

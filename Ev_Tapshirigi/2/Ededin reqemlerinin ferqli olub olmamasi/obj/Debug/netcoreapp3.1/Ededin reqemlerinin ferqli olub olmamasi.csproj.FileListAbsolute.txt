@@ -1,0 +1,13 @@
+E:\C#\Ededin reqemlerinin ferqli olub olmamasi\Ededin reqemlerinin ferqli olub olmamasi\bin\Debug\netcoreapp3.1\Ededin reqemlerinin ferqli olub olmamasi.exe
+E:\C#\Ededin reqemlerinin ferqli olub olmamasi\Ededin reqemlerinin ferqli olub olmamasi\bin\Debug\netcoreapp3.1\Ededin reqemlerinin ferqli olub olmamasi.deps.json
+E:\C#\Ededin reqemlerinin ferqli olub olmamasi\Ededin reqemlerinin ferqli olub olmamasi\bin\Debug\netcoreapp3.1\Ededin reqemlerinin ferqli olub olmamasi.runtimeconfig.json
+E:\C#\Ededin reqemlerinin ferqli olub olmamasi\Ededin reqemlerinin ferqli olub olmamasi\bin\Debug\netcoreapp3.1\Ededin reqemlerinin ferqli olub olmamasi.runtimeconfig.dev.json
+E:\C#\Ededin reqemlerinin ferqli olub olmamasi\Ededin reqemlerinin ferqli olub olmamasi\bin\Debug\netcoreapp3.1\Ededin reqemlerinin ferqli olub olmamasi.dll
+E:\C#\Ededin reqemlerinin ferqli olub olmamasi\Ededin reqemlerinin ferqli olub olmamasi\bin\Debug\netcoreapp3.1\Ededin reqemlerinin ferqli olub olmamasi.pdb
+E:\C#\Ededin reqemlerinin ferqli olub olmamasi\Ededin reqemlerinin ferqli olub olmamasi\obj\Debug\netcoreapp3.1\Ededin reqemlerinin ferqli olub olmamasi.csprojAssemblyReference.cache
+E:\C#\Ededin reqemlerinin ferqli olub olmamasi\Ededin reqemlerinin ferqli olub olmamasi\obj\Debug\netcoreapp3.1\Ededin reqemlerinin ferqli olub olmamasi.AssemblyInfoInputs.cache
+E:\C#\Ededin reqemlerinin ferqli olub olmamasi\Ededin reqemlerinin ferqli olub olmamasi\obj\Debug\netcoreapp3.1\Ededin reqemlerinin ferqli olub olmamasi.AssemblyInfo.cs
+E:\C#\Ededin reqemlerinin ferqli olub olmamasi\Ededin reqemlerinin ferqli olub olmamasi\obj\Debug\netcoreapp3.1\Ededin reqemlerinin ferqli olub olmamasi.csproj.CoreCompileInputs.cache
+E:\C#\Ededin reqemlerinin ferqli olub olmamasi\Ededin reqemlerinin ferqli olub olmamasi\obj\Debug\netcoreapp3.1\Ededin reqemlerinin ferqli olub olmamasi.dll
+E:\C#\Ededin reqemlerinin ferqli olub olmamasi\Ededin reqemlerinin ferqli olub olmamasi\obj\Debug\netcoreapp3.1\Ededin reqemlerinin ferqli olub olmamasi.pdb
+E:\C#\Ededin reqemlerinin ferqli olub olmamasi\Ededin reqemlerinin ferqli olub olmamasi\obj\Debug\netcoreapp3.1\Ededin reqemlerinin ferqli olub olmamasi.genruntimeconfig.cache

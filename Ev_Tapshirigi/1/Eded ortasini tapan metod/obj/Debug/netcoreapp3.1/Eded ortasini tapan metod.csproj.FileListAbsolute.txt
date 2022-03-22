@@ -1,0 +1,13 @@
+E:\C#\Eded ortasini tapan metod\Eded ortasini tapan metod\obj\Debug\netcoreapp3.1\Eded ortasini tapan metod.csprojAssemblyReference.cache
+E:\C#\Eded ortasini tapan metod\Eded ortasini tapan metod\obj\Debug\netcoreapp3.1\Eded ortasini tapan metod.AssemblyInfoInputs.cache
+E:\C#\Eded ortasini tapan metod\Eded ortasini tapan metod\obj\Debug\netcoreapp3.1\Eded ortasini tapan metod.AssemblyInfo.cs
+E:\C#\Eded ortasini tapan metod\Eded ortasini tapan metod\obj\Debug\netcoreapp3.1\Eded ortasini tapan metod.csproj.CoreCompileInputs.cache
+E:\C#\Eded ortasini tapan metod\Eded ortasini tapan metod\bin\Debug\netcoreapp3.1\Eded ortasini tapan metod.exe
+E:\C#\Eded ortasini tapan metod\Eded ortasini tapan metod\bin\Debug\netcoreapp3.1\Eded ortasini tapan metod.deps.json
+E:\C#\Eded ortasini tapan metod\Eded ortasini tapan metod\bin\Debug\netcoreapp3.1\Eded ortasini tapan metod.runtimeconfig.json
+E:\C#\Eded ortasini tapan metod\Eded ortasini tapan metod\bin\Debug\netcoreapp3.1\Eded ortasini tapan metod.runtimeconfig.dev.json
+E:\C#\Eded ortasini tapan metod\Eded ortasini tapan metod\bin\Debug\netcoreapp3.1\Eded ortasini tapan metod.dll
+E:\C#\Eded ortasini tapan metod\Eded ortasini tapan metod\bin\Debug\netcoreapp3.1\Eded ortasini tapan metod.pdb
+E:\C#\Eded ortasini tapan metod\Eded ortasini tapan metod\obj\Debug\netcoreapp3.1\Eded ortasini tapan metod.dll
+E:\C#\Eded ortasini tapan metod\Eded ortasini tapan metod\obj\Debug\netcoreapp3.1\Eded ortasini tapan metod.pdb
+E:\C#\Eded ortasini tapan metod\Eded ortasini tapan metod\obj\Debug\netcoreapp3.1\Eded ortasini tapan metod.genruntimeconfig.cache
