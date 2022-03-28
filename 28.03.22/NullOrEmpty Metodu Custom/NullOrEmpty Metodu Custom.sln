@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullOrEmpty Metodu Custom", "NullOrEmpty Metodu Custom\NullOrEmpty Metodu Custom.csproj", "{5C92D86C-78FB-4274-AF6C-BE121A20F769}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C92D86C-78FB-4274-AF6C-BE121A20F769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C92D86C-78FB-4274-AF6C-BE121A20F769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C92D86C-78FB-4274-AF6C-BE121A20F769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C92D86C-78FB-4274-AF6C-BE121A20F769}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49287C5E-F979-48BB-9617-A001FA6B4174}
+	EndGlobalSection
+EndGlobal

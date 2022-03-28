@@ -1,0 +1,5 @@
+E:\C#\IndexOf Metodu Custom\IndexOf Metodu Custom\obj\Debug\net5.0\IndexOf Metodu Custom.csproj.AssemblyReference.cache
+E:\C#\IndexOf Metodu Custom\IndexOf Metodu Custom\obj\Debug\net5.0\IndexOf Metodu Custom.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\IndexOf Metodu Custom\IndexOf Metodu Custom\obj\Debug\net5.0\IndexOf Metodu Custom.AssemblyInfoInputs.cache
+E:\C#\IndexOf Metodu Custom\IndexOf Metodu Custom\obj\Debug\net5.0\IndexOf Metodu Custom.AssemblyInfo.cs
+E:\C#\IndexOf Metodu Custom\IndexOf Metodu Custom\obj\Debug\net5.0\IndexOf Metodu Custom.csproj.CoreCompileInputs.cache

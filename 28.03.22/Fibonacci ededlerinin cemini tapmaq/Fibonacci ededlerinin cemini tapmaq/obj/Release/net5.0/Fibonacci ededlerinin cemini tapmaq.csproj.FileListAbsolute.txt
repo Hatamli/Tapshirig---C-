@@ -1,0 +1,16 @@
+E:\C#\Fibonacci ededlerinin cemini tapmaq\Fibonacci ededlerinin cemini tapmaq\bin\Release\net5.0\Fibonacci ededlerinin cemini tapmaq.exe
+E:\C#\Fibonacci ededlerinin cemini tapmaq\Fibonacci ededlerinin cemini tapmaq\bin\Release\net5.0\Fibonacci ededlerinin cemini tapmaq.deps.json
+E:\C#\Fibonacci ededlerinin cemini tapmaq\Fibonacci ededlerinin cemini tapmaq\bin\Release\net5.0\Fibonacci ededlerinin cemini tapmaq.runtimeconfig.json
+E:\C#\Fibonacci ededlerinin cemini tapmaq\Fibonacci ededlerinin cemini tapmaq\bin\Release\net5.0\Fibonacci ededlerinin cemini tapmaq.runtimeconfig.dev.json
+E:\C#\Fibonacci ededlerinin cemini tapmaq\Fibonacci ededlerinin cemini tapmaq\bin\Release\net5.0\Fibonacci ededlerinin cemini tapmaq.dll
+E:\C#\Fibonacci ededlerinin cemini tapmaq\Fibonacci ededlerinin cemini tapmaq\bin\Release\net5.0\ref\Fibonacci ededlerinin cemini tapmaq.dll
+E:\C#\Fibonacci ededlerinin cemini tapmaq\Fibonacci ededlerinin cemini tapmaq\bin\Release\net5.0\Fibonacci ededlerinin cemini tapmaq.pdb
+E:\C#\Fibonacci ededlerinin cemini tapmaq\Fibonacci ededlerinin cemini tapmaq\obj\Release\net5.0\Fibonacci ededlerinin cemini tapmaq.csproj.AssemblyReference.cache
+E:\C#\Fibonacci ededlerinin cemini tapmaq\Fibonacci ededlerinin cemini tapmaq\obj\Release\net5.0\Fibonacci ededlerinin cemini tapmaq.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Fibonacci ededlerinin cemini tapmaq\Fibonacci ededlerinin cemini tapmaq\obj\Release\net5.0\Fibonacci ededlerinin cemini tapmaq.AssemblyInfoInputs.cache
+E:\C#\Fibonacci ededlerinin cemini tapmaq\Fibonacci ededlerinin cemini tapmaq\obj\Release\net5.0\Fibonacci ededlerinin cemini tapmaq.AssemblyInfo.cs
+E:\C#\Fibonacci ededlerinin cemini tapmaq\Fibonacci ededlerinin cemini tapmaq\obj\Release\net5.0\Fibonacci ededlerinin cemini tapmaq.csproj.CoreCompileInputs.cache
+E:\C#\Fibonacci ededlerinin cemini tapmaq\Fibonacci ededlerinin cemini tapmaq\obj\Release\net5.0\Fibonacci ededlerinin cemini tapmaq.dll
+E:\C#\Fibonacci ededlerinin cemini tapmaq\Fibonacci ededlerinin cemini tapmaq\obj\Release\net5.0\ref\Fibonacci ededlerinin cemini tapmaq.dll
+E:\C#\Fibonacci ededlerinin cemini tapmaq\Fibonacci ededlerinin cemini tapmaq\obj\Release\net5.0\Fibonacci ededlerinin cemini tapmaq.pdb
+E:\C#\Fibonacci ededlerinin cemini tapmaq\Fibonacci ededlerinin cemini tapmaq\obj\Release\net5.0\Fibonacci ededlerinin cemini tapmaq.genruntimeconfig.cache

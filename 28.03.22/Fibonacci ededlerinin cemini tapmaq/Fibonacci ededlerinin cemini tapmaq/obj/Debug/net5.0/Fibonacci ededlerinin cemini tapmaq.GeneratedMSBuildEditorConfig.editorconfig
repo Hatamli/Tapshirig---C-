@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Fibonacci_ededlerinin_cemini_tapmaq
+build_property.ProjectDir = E:\C#\Fibonacci ededlerinin cemini tapmaq\Fibonacci ededlerinin cemini tapmaq\
